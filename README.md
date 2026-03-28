@@ -1,7 +1,7 @@
 # 🤖 NETLURA-IA
 
 <p align="center">
-  <img src="./assets/demo-netflix.jpg" alt="NETLURA-IA Banner" width="100%" />
+  <img src="./assets/demo-netflix.jpg" alt="NETLURA-IA Banner" width="49.9%" />
 </p>
 
 <p align="center">
@@ -134,7 +134,7 @@ Este projeto está sob a licença MIT.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por João Marcos Araujo 🚀
+Desenvolvido por 𝔍𝔬𝔞̃𝔬 𝔐𝔞𝔯𝔠𝔬𝔰 𝔄𝔯𝔞𝔲́𝔧𝔬 𝔏𝔦𝔪𝔞 🚀
 
 🔗 https://github.com/jmarcosaraujo
 
@@ -142,7 +142,7 @@ Desenvolvido por João Marcos Araujo 🚀
 
 ## ⭐ Apoie o projeto
 
-Se este projeto te ajudou, deixe uma ⭐ no repositório!
+Se você gostou deste projeto e te ajudou, deixe uma ⭐ no repositório! help us in the best way.
 
 ---
 
