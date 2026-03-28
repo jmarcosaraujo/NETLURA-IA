@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Plataforma de Inteligência Artificial para acelerar desenvolvimento e inovação</strong>
+  <strong>Plataforma feita com o time Alura e Inteligência Artificial para acelerar desenvolvimento e inovação</strong>
 </p>
 
 <p align="center">
@@ -29,6 +29,20 @@
 
 🔗 **Acesse rapidamente:**  
 👉 https://jmarcosaraujo.github.io/NETLURA-IA/
+
+## 🎥 Demonstração em vídeo
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=7OEfy3jocXY">
+    <img src="https://img.youtube.com/vi/7OEfy3jocXY/maxresdefault.jpg" 
+         alt="Assista ao vídeo" 
+         width="80%">
+  </a>
+</p>
+
+<p align="center">
+  ▶️ Clique na imagem para assistir no YouTube
+</p>
 
 ---
 
