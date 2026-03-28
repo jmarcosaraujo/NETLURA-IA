@@ -1,7 +1,10 @@
 # 🤖 NETLURA-IA
 
 <p align="center">
-  <img src="./assets/demo-netflix.jpg" alt="NETLURA-IA Banner" width="49.9%" />
+  <img src="./assets/demo-netflix.jpg" alt="NETLURA-IA Banner" width="9.9%" /><img src="./assets/demo-netflix.jpg" alt="NETLURA-IA Banner" width="39.9%" />
+  <img src="./assets/demo-netflix.jpg" alt="NETLURA-IA Banner" width="9.9%" /><img src="./assets/demo-netflix.jpg" alt="NETLURA-IA Banner" width="39.9%" />
+  <img src="./assets/demo-netflix.jpg" alt="NETLURA-IA Banner" width="9.9%" /><img src="./assets/demo-netflix.jpg" alt="NETLURA-IA Banner" width="39.9%" />
+  <img src="./assets/demo-netflix.jpg" alt="NETLURA-IA Banner" width="9.9%" /><img src="./assets/demo-netflix.jpg" alt="NETLURA-IA Banner" width="39.9%" />
 </p>
 
 <p align="center">
@@ -19,16 +22,17 @@
 
 ---
 
-## 📸 Demonstração
+## 📸 Acesse o Site
 
 <p align="center">
   <a href="https://jmarcosaraujo.github.io/NETLURA-IA/">
-    <img src="./assets/fonte-netflix.jpg" alt="Preview do sistema" width="90%">
+    <img src="./assets/fonte-netflix.jpg" alt="Preview do sistema" width="79%">
   </a>
 </p>
 
-🔗 **Acesse rapidamente:**  
-👉 https://jmarcosaraujo.github.io/NETLURA-IA/
+<p align="center">
+👉 Link: https://jmarcosaraujo.github.io/NETLURA-IA/
+</p>
 
 ## 🎥 Demonstração em vídeo
 
@@ -36,7 +40,7 @@
   <a href="https://www.youtube.com/watch?v=7OEfy3jocXY">
     <img src="https://img.youtube.com/vi/7OEfy3jocXY/maxresdefault.jpg" 
          alt="Assista ao vídeo" 
-         width="80%">
+         width="79%">
   </a>
 </p>
 
@@ -64,7 +68,7 @@ Projetado para desenvolvedores e entusiastas de IA, o projeto permite explorar o
 ## 🧠 Tecnologias utilizadas
 ```
 - 💻 Linguagens: HTML, CSS, JS
-- 🤖 IA: Gemini, ChatBot
+- 🤖 IA: Gemini, ChatBot, VisualStudio
 ```
 ---
 
