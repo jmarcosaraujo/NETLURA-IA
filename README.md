@@ -57,15 +57,15 @@ Projetado para desenvolvedores e entusiastas de IA, o projeto permite explorar o
 - 📊 Analisar dados de forma eficiente
 - 🔗 Integrar IA em aplicações reais
 
-💡 Ferramentas de IA ajudam desenvolvedores a escrever, revisar e otimizar código com mais eficiência usando modelos avançados de linguagem :contentReference[oaicite:1]{index=1}
+💡 Ferramentas de IA ajudam desenvolvedores a escrever, revisar e otimizar código com mais eficiência usando modelos avançados de linguagem
 
 ---
 
 ## 🧠 Tecnologias utilizadas
-
+```
 - 💻 Linguagens: HTML, CSS, JS
 - 🤖 IA: Gemini, ChatBot
-
+```
 ---
 
 ## ⚙️ Como executar o projeto
@@ -89,36 +89,24 @@ npm run dev
 ## 📁 Estrutura do projeto
 
 📦 NETLURA-IA
-
- ┣ 📂 src
  
  ┣ 📂 assets
+
+ ┣ img.jpg
  
- ┣ 📂 components
+ ┣ 📂 catálogo
+
+ ┣ 📂 js
+
+ ┣ 📂 componentes
  
  ┣ 📜 README.md
+
+ ┣ 📜 index.html
+
+ ┣ 📜 style.css
  
- ┗ 📜 package.json
-
- ---
- 
- ## 🚀 Funcionalidades
- 
-✔️ Integração com IA
-
-✔️ Interface amigável
-
-✔️ Respostas inteligentes
-
-✔️ Escalável e modular
-
----
-
-## 📌 Roadmap
- Melhorar interface UI/UX
- Adicionar autenticação
- Expandir integração com APIs de IA
- Deploy em produção
+ ┗ 📜 theme.js
 
  ---
  
@@ -127,9 +115,13 @@ npm run dev
 Contribuições são muito bem-vindas!
 
 Fork o projeto
+
 Crie uma branch (git checkout -b feature/minha-feature)
+
 Commit suas mudanças
+
 Push (git push origin feature/minha-feature)
+
 Abra um Pull Request
 
 ---
